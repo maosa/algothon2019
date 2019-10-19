@@ -5,6 +5,7 @@
 * Andreas Maos
 * George Hajivassiliou
 * Marios Kassapis
+* Michalis Lazarou
 
 ## Repository structure
 * The *practice* directory contains data and scripts used before the Algothon to familiarise ourselves with financial data and common data science techniques.
