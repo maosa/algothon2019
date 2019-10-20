@@ -19,6 +19,8 @@
     * A future estimate of &alpha; was calculated using the latest ESG metrics.
 * **ema_analysis.ipynb**
     * User-defined functions for calculating and plotting the exponential moving averages (EMAs) for 20-day and 100-day windows.
+* **Trade_Brigade_Presentation_Algothon.pptx**
+    * PowerPoint presentation
 
 ## Repository structure :open_file_folder:
 * The ***practice*** directory contains data and scripts used before the Algothon to familiarise ourselves with financial data and common data science techniques.
